@@ -1,5 +1,5 @@
 # Leap Rover
-A hand gesture controlled rover created for LA Hacks 2017
+A hand gesture controlled rover created by [@SaarthakA](https://github.com/SaarthakA) and me for LA Hacks 2017
 
 # Features
   -Controlled by hand gestures and Leap Motion  
