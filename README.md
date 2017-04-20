@@ -13,4 +13,4 @@ A hand gesture controlled rover created by [@SaarthakA](https://github.com/Saart
 
 **Libraries**  
 [Leap Motion Processing](https://github.com/voidplus/leap-motion-processing)  
-[Adafruit Motor Shield V1](https://github.com/adafruit/Adafruit-Motor-Shield-library)
+[Adafruit Motor Shield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
